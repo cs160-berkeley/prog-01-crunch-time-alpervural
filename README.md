@@ -17,6 +17,6 @@ See [Calorie App Tour] (https://www.youtube.com/watch?v=ZThl01voF-8&feature=yout
 
 ## Screenshots
 
-<img src="screenshots/s1" height="400" alt="Screenshot"/>
-<img src="screenshots/s2" height="400" alt="Screenshot"/>
-<img src="screenshots/s3" height="400" alt="Screenshot"/>
+<img src="screenshots/s1.PNG" height="400" alt="Screenshot"/>
+<img src="screenshots/s2.PNG" height="400" alt="Screenshot"/>
+<img src="screenshots/s3.PNG" height="400" alt="Screenshot"/>
